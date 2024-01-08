@@ -1,5 +1,5 @@
 # grocerybill
-This pseudocode outlines the steps involved in creating a Java program to calculate and display the average weekly and monthly grocery bill for a family of four with and without a coupon. 
+This pseudocode outlines the steps involved in creating a Java program to calculate and display the average weekly and monthly grocery bills for a family of four with and without a coupon. 
 
 1.	Import Scanner Class to take input from user
 
